@@ -7,7 +7,7 @@ I'm Joon!
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sunkist5691@gmail.com)
 
 Welcome to my Github page! 
-I'm a software engineer who's background musician and from South Korea, currently in California !!  
+I'm a software engineer who's background musician and South Korean, currently in California !!  
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 

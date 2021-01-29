@@ -9,7 +9,7 @@ I'm Joon!
 Welcome to my Github page! 
 I'm a software engineer who's background musician and from South Korea, currently in California !!  
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkist5691&title_color=2257EA&bg_color=f7f7f7&hide=html,css" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunkist5691&title_color=2257EA&bg_color=f7f7f7&hide=html,css" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sunkist5691&show_icons=true&hide_border=true" />
 
 #### 🌱 Things I am currently working on: 

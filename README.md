@@ -12,16 +12,15 @@ I'm a software engineer who's background musician and South Korean, currently in
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 #### 🌱 Things I am currently working on: 
-- Foodie, giving a rate for food item
-- Villabe Book Builder, promoting education system to eliminate poverty
-- AlgoExpert && SystemExpert && Leetcode
-
+- TypeScript
+- AWS
+- Leetcode
 
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Focus
+- Debugging
+- Exercise every day
 
 #### :computer: Programming languages and tools: 
 <p>

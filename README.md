@@ -11,9 +11,11 @@ I'm a software engineer who's background musician and South Korean, currently in
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-#### 🌱 Things I am currently working on: 
-- TypeScript
-- AWS
+#### 🌱 Things I am currently using: 
+- Java
+- SpringBoot
+- JPA
+- React Native
 - Leetcode
 
 

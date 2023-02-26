@@ -17,6 +17,7 @@ I'm a software engineer who's background musician and South Korean, currently in
 - Java
 - SpringBoot
 - JPA
+- React
 - React Native
 - Leetcode
 
